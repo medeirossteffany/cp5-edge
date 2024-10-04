@@ -1,5 +1,7 @@
 # Temperatura, umidade e intensidade de luz em um broker MQTT
 
+![Imagem aplicacao](cp5.jpeg)
+
 Este projeto demonstra como conectar um ESP32 a uma rede Wi-Fi e publicar dados de sensores (temperatura, umidade e intensidade de luz) em um broker MQTT.
 
 ## Requisitos
