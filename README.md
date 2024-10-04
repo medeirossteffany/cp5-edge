@@ -1,6 +1,4 @@
-# cp5-edge
-
-# Publicador de Sensores MQTT para ESP32
+# Temperatura, umidade e intensidade de luz em um broker MQTT
 
 Este projeto demonstra como conectar um ESP32 a uma rede Wi-Fi e publicar dados de sensores (temperatura, umidade e intensidade de luz) em um broker MQTT.
 
@@ -55,5 +53,11 @@ Este projeto demonstra como conectar um ESP32 a uma rede Wi-Fi e publicar dados 
 ## Nota
 
 Certifique-se de que o seu broker MQTT seja acessível a partir da rede do ESP32 e que quaisquer regras necessárias de encaminhamento de porta ou firewall estejam configuradas.
+
+## Integrantes do Grupo
+- Gustavo Henrique – 556712 
+- Milena Garcia – 555111 
+- Steffany Medeiros – 556262
+- Vinicius Henrique - 556908
 
 
